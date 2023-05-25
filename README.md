@@ -1,9 +1,6 @@
-# Unofficial Poster Template for University of Cambridge
- [![Overleaf Template](https://img.shields.io/badge/Overleaf-Template-success?logo=overleaf)](https://www.overleaf.com/latex/templates/unofficial-poster-template-for-uchicago-computer-science/kbbmbdxwbypb)
+# Unofficial Poster Template for AILab @ UniTS
 
-A fork of Gemini. Also available on Overleaf.
-
-![gemini_cam](https://user-images.githubusercontent.com/11074066/199757993-851d5934-b7d5-4805-a666-704cc9b7c799.png)
+A fork of (a [fork](https://github.com/andiac/gemini-cam) of) [Gemini](https://github.com/anishathalye/gemini): a modern LaTeX [beamerposter] theme.
 
 ## Dependencies
 
@@ -31,12 +28,16 @@ A fork of Gemini. Also available on Overleaf.
 See the [FAQ] in the Wiki for answers to frequently asked questions such as how
 to add an institution logo to the poster.
 
+## Design goals
+
+* **Minimal**: clean and easy to read, so that the emphasis is on the content
+* **Batteries included**: works and looks good out of the box
+* **Easy theming**: easy to create and use a new color theme
+
 
 [beamerposter]: https://github.com/deselaers/latex-beamerposter
-[Auriga]: https://github.com/anishathalye/auriga
 [LuaTeX]: http://www.luatex.org/
 [CTAN]: https://ctan.org/
 [Raleway]: https://www.fontsquirrel.com/fonts/raleway
 [Lato]: https://www.fontsquirrel.com/fonts/lato
-[license]: LICENSE.md
 [FAQ]: https://github.com/anishathalye/gemini/wiki/FAQ
