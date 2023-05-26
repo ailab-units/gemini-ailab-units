@@ -1,7 +1,7 @@
 # output
 *.pdf
 # but not logos
-!logos/
+!logos/*.pdf
 
 # intermediate files
 *.aux
