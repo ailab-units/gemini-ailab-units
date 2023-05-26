@@ -1,4 +1,4 @@
-# Unofficial Poster Template for AILab @ UniTS
+# Unofficial Poster Template for [AILab @ UniTS](https://ai-lab.units.it/) [![Build Status](https://github.com/emaballarin/gemini-ailab-units/workflows/CI/badge.svg)](https://github.com/emaballarin/gemini-ailab-units/actions?query=workflow%3ACI)
 
 A fork of (a [fork](https://github.com/andiac/gemini-cam) of) [Gemini](https://github.com/anishathalye/gemini): a modern LaTeX [beamerposter] theme.
 
